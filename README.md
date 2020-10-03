@@ -31,6 +31,7 @@ I work as a Web designer and Web Developer with (UI/UX) design skills (front-end
  </tr>
  <tr>
     <td>
+     <br />
      <ul>
       <li>PHP</li>
       <li>Python</li>
@@ -40,6 +41,7 @@ I work as a Web designer and Web Developer with (UI/UX) design skills (front-end
      </ul>
     </td>
     <td>
+     <br />
      <ul>
       <li>Laravel</li>
       <li>VueJS</li>
