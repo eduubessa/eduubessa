@@ -11,30 +11,34 @@ I work as a Web designer and Web Developer with (UI/UX) design skills (front-end
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
+    <td>
+     <h3> 🧰 Currently programming skills</h3>
+    </td>
+    <td>
+     <h3>💡 Currently frameworks skills</h3>
+    </td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+    <td>
+     <ul>
+      <li>PHP</li>
+      <li>Python</li>
+      <li>JavaScript</li>
+      <li>CSharp</li>
+      <li>Visual Basic Application</li>
+     </ul>
+    </td>
+    <td>
+     <ul>
+      <li>Laravel</li>
+      <li>VueJS</li>
+      <li>NodeJS</li>
+      <li>ReactJS</li>
+      <li>.NET</li>
+     </ul>
+    </td>
  </tr>
 </table>
-
-### 🧰 Currently programming skills
-
-- PHP
-- Python
-- JavaScript
-- CSharp (Basic)
-- Visual Basic Application (on Word and Excel)
-
-### 💡 Currently frameworks skills
-
- - Laravel
- - VueJS
- - ReactJS
- - NodeJS
- - .NET
 
 ### 🖥  I'm currently learning
 
