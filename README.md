@@ -56,8 +56,6 @@ I work as a Web designer and Web Developer with (UI/UX) design skills (front-end
 </table>
 
 <br />
-<br />
-<br />
 
 ## My interests
 
