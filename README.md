@@ -14,7 +14,7 @@ I work as a Web designer and Web Developer with (UI/UX) design skills (front-end
  <tr>
     <td>
      <h3 style="text-align: center;">
-      &nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       🧰 Currently programming skills 
