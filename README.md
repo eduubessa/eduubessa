@@ -9,7 +9,7 @@ I work as a Web designer and Web Developer with (UI/UX) design skills (front-end
 
 [![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduubessa&layout=compact)](https://github.com/eduubessa/github-readme-stats)
 
-<table border="0" width="0">
+<table border="0" width="100%">
  <tr>
     <td>
      <h3> 🧰 Currently programming skills</h3>
