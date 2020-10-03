@@ -55,8 +55,6 @@ I work as a Web designer and Web Developer with (UI/UX) design skills (front-end
  </tr>
 </table>
 
-<br />
-
 ## My interests
 
 <table border="0" style="width: 100% !important;">
