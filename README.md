@@ -6,8 +6,9 @@
 I work as a Web designer and Web Developer with (UI/UX) design skills (front-end designer). I'm based in Leiria, 🇵🇹.
 
 ## My Statistics
-
+<center>
 [![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduubessa&layout=compact)](https://github.com/eduubessa/github-readme-stats) <img height="165px" src="https://github-readme-stats.vercel.app/api?username=eduubessa&show_icons=true&text_color=2980b9&title_color=3498db&icon_color=3498db" />
+</center>
 
 ## My Skills
 
