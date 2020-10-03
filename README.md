@@ -3,9 +3,9 @@
  Hi, I'm <a href="https://www.eduardobessa.pt/">Eduardo Bessa</a></h1>
 
 
-I work as a Web designer and Web Developer with (UI/UX) design skills (front-end designer). I'm based in Ansião, Leiria, Portugal.
+I work as a Web designer and Web Developer with (UI/UX) design skills (front-end designer). I'm based in Leiria, Portugal 🇵🇹.
 
-## My statistics
+## My Statistics
 
 [![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduubessa&layout=compact)](https://github.com/eduubessa/github-readme-stats)
 
@@ -55,7 +55,7 @@ I work as a Web designer and Web Developer with (UI/UX) design skills (front-end
  </tr>
 </table>
 
-## My interests
+## My Interests
 
 <table border="0" style="width: 100% !important;">
  <tr>
