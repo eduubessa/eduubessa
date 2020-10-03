@@ -21,12 +21,12 @@ I work as a Web designer and Web Developer with (UI/UX) design skills (front-end
  - NodeJS
  - .NET
 
-### 🖥 I'm currently learning
+### 🖥  I'm currently learning
 
 - Swift (iOS)
 - ReactJS
 
-### 🛠 Interested in:
+### 🛠  Interested in:
 
 - Web Design
 - Web development
