@@ -3,7 +3,7 @@
  Hi, I'm <a href="https://www.eduardobessa.pt/">Eduardo Bessa</a></h1>
 
 
-I work as a Web designer and Web Developer with (UI/UX) design skills (front-end designer). I'm based in Leiria, Portugal 🇵🇹.
+I work as a Web designer and Web Developer with (UI/UX) design skills (front-end designer). I'm based in Leiria, 🇵🇹.
 
 ## My Statistics
 
