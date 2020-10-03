@@ -55,17 +55,55 @@ I work as a Web designer and Web Developer with (UI/UX) design skills (front-end
  </tr>
 </table>
 
-### 🖥  I'm currently learning
+<br />
+<br />
+<br />
 
-- Swift (iOS)
-- ReactJS
+## My interests
 
-### 🛠  Interested in:
+<table border="0" style="width: 100% !important;">
+ <tr>
+    <td>
+     <h3 style="text-align: center;">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      🖥  I'm currently learning 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td>
+     <h3 style="text-align: center;">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      💡 My currently hobbies:
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     </h3>
+    </td>
+ </tr>
+ <tr>
+    <td>
+     <br />
+     <ul>
+      <li>Swift (iOS)</li>
+      <li>ReactJS</li>
+      <li>Angular</li>
+      <li>Android</li>
+     </ul>
+    </td>
+    <td>
+     <br />
+     <ul>
+      <li>Web Design</li>
+      <li>Web Development</li>
+      <li>Photography</li>
+      <li>Video</li>
+      <li>Travel</li>
+     </ul>
+    </td>
+ </tr>
+</table>
 
-- Web Design
-- Web development
-- Photography
-- Video
 
 
 
