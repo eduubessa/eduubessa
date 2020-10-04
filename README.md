@@ -5,10 +5,10 @@
 
 I work as a Web designer and Web Developer with (UI/UX) design skills (front-end designer). I'm based in Leiria, 🇵🇹.
 
-### My Statistics
+#### My Statistics
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduubessa&layout=compact)](https://github.com/eduubessa/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp; <img height="165px" src="https://github-readme-stats.vercel.app/api?username=eduubessa&show_icons=true&text_color=2980b9&title_color=3498db&icon_color=3498db" />
 
-### My Skills
+#### My Skills
 
 <table border="0" style="width: 100% !important;">
  <tr>
@@ -55,7 +55,7 @@ I work as a Web designer and Web Developer with (UI/UX) design skills (front-end
  </tr>
 </table>
 
-### My Interests
+#### My Interests
 
 <table border="0" style="width: 100% !important;">
  <tr>
