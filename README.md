@@ -47,8 +47,6 @@ I work as a Web designer and Web Developer with (UI/UX) design skills (front-end
       <li>Laravel</li>
       <li>VueJS</li>
       <li>NodeJS</li>
-      <li>ReactJS</li>
-      <li>.NET</li>
      </ul>
     </td>
  </tr>
@@ -84,10 +82,7 @@ I work as a Web designer and Web Developer with (UI/UX) design skills (front-end
     <td>
      <br />
      <ul>
-      <li>Swift (iOS)</li>
       <li>ReactJS</li>
-      <li>Angular</li>
-      <li>Android</li>
      </ul>
     </td>
     <td>
